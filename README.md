@@ -2,9 +2,12 @@ ATM Simulator project is a full stack web window application
 
 **Technologies Used**  
 
-1 . Java 
-2 . Java Swing
+1 . Java   
+
+2 . Java Swing  
+
 3 . MySQL  
+
 
 **IDE Used**   
 
